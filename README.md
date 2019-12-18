@@ -15,7 +15,7 @@ Eclipse/Maven error: “No compiler is provided in this environment”
 4. select tools.jar from java/JDKx.x/lib folder.
 5. Click Finish
 
-
+Teste - alterando no proprio STS4
 
 
 
