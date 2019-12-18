@@ -1,4 +1,4 @@
-package natan.io.projeto1;
+package mdo.io.projeto1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
